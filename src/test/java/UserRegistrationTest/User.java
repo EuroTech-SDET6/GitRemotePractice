@@ -6,7 +6,6 @@ public class User {
         System.out.println("this is user class");
 
 
-//        code 1
 
 //        code2
 
