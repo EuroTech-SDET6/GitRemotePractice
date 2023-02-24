@@ -1,6 +1,6 @@
 package QualityControl5;
 
-public class TestControl4 {
+public class TestControl5 {
 
     public static void main(String[] args) {
 
