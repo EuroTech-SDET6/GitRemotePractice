@@ -9,5 +9,14 @@ public class TestControl5 {
         // code2
 
         // code3
+
+        System.out.println("TestControl5 is created");
+
+        System.out.println("Time to push");
+
+        // code 123
+
+        // code again
+
     }
 }
